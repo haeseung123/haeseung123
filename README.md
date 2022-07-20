@@ -3,8 +3,6 @@
 시스템 엔지니어로 일한 경험이 있는 프론트엔드 개발자입니다.<br>
 백엔드와 데브옵스에 관심이 많아 백엔드로 이직하기 위해 공부중이애오:0
 
-
-<br>
 [Skills]<br>
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
