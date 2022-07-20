@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=wellcome&fontSize=70&fontAlignY=41)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=welcome&fontSize=70&fontAlignY=41)
 
 시스템 엔지니어로 일한 경험이 있는 프론트엔드 개발자입니다.<br>
 백엔드와 데브옵스에 관심이 많아 백엔드로 이직하기 위해 공부중이애오:0
